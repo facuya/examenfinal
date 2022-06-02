@@ -1,0 +1,7 @@
+header { font: "Comic Sans MS" ; color: black; margin-right:500px; margin-left:500px; margin-top: -200px; align:"center"; }
+h1 { font: "Comic Sans MS" ; color: black; margin-right:100px; margin-left:100px;  box-align:"center" ;  } 
+p  { font: "Comic sans MS"; color: black; margin-right:500px; margin-left:500px; margin-top:-100px;}
+ol { font: "Comic sans MS"; color: black; margin-right:100px; margin-left:100px;}
+main{margin-top:100px;}
+nav { margin-top:-100px;  }
+aside{float:right;}
